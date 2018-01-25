@@ -4,6 +4,7 @@ gem "hashie"
 gem "sinatra", "1.4.4"
 gem "octokit", "~>2.0"
 gem 'awesome_print', '~> 1.8'
+gem "awesome_print, git: "git@github.com:awesome_print/awesome_print"
 
 group :test do
   gem "rspec"
