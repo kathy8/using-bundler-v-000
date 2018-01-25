@@ -11,5 +11,3 @@ group :test do
 end
 
 gem "pry", :group => "development"
-gem 'awesome_print', '~> 1.8'
-gem install awesome_print
